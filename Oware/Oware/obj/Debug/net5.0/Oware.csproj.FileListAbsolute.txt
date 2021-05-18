@@ -1,0 +1,16 @@
+j:\‎\ict.ru.ac.za\DFS\UGHomes\g19p1052\Desktop\p2sdp‎\Oware\Oware\bin\Debug\net5.0\Oware.exe
+j:\‎\ict.ru.ac.za\DFS\UGHomes\g19p1052\Desktop\p2sdp‎\Oware\Oware\bin\Debug\net5.0\Oware.deps.json
+j:\‎\ict.ru.ac.za\DFS\UGHomes\g19p1052\Desktop\p2sdp‎\Oware\Oware\bin\Debug\net5.0\Oware.runtimeconfig.json
+j:\‎\ict.ru.ac.za\DFS\UGHomes\g19p1052\Desktop\p2sdp‎\Oware\Oware\bin\Debug\net5.0\Oware.runtimeconfig.dev.json
+j:\‎\ict.ru.ac.za\DFS\UGHomes\g19p1052\Desktop\p2sdp‎\Oware\Oware\bin\Debug\net5.0\Oware.dll
+j:\‎\ict.ru.ac.za\DFS\UGHomes\g19p1052\Desktop\p2sdp‎\Oware\Oware\bin\Debug\net5.0\ref\Oware.dll
+j:\‎\ict.ru.ac.za\DFS\UGHomes\g19p1052\Desktop\p2sdp‎\Oware\Oware\bin\Debug\net5.0\Oware.pdb
+j:\‎\ict.ru.ac.za\DFS\UGHomes\g19p1052\Desktop\p2sdp‎\Oware\Oware\obj\Debug\net5.0\Oware.csprojAssemblyReference.cache
+j:\‎\ict.ru.ac.za\DFS\UGHomes\g19p1052\Desktop\p2sdp‎\Oware\Oware\obj\Debug\net5.0\Oware.GeneratedMSBuildEditorConfig.editorconfig
+j:\‎\ict.ru.ac.za\DFS\UGHomes\g19p1052\Desktop\p2sdp‎\Oware\Oware\obj\Debug\net5.0\Oware.AssemblyInfoInputs.cache
+j:\‎\ict.ru.ac.za\DFS\UGHomes\g19p1052\Desktop\p2sdp‎\Oware\Oware\obj\Debug\net5.0\Oware.AssemblyInfo.cs
+j:\‎\ict.ru.ac.za\DFS\UGHomes\g19p1052\Desktop\p2sdp‎\Oware\Oware\obj\Debug\net5.0\Oware.csproj.CoreCompileInputs.cache
+j:\‎\ict.ru.ac.za\DFS\UGHomes\g19p1052\Desktop\p2sdp‎\Oware\Oware\obj\Debug\net5.0\Oware.dll
+j:\‎\ict.ru.ac.za\DFS\UGHomes\g19p1052\Desktop\p2sdp‎\Oware\Oware\obj\Debug\net5.0\ref\Oware.dll
+j:\‎\ict.ru.ac.za\DFS\UGHomes\g19p1052\Desktop\p2sdp‎\Oware\Oware\obj\Debug\net5.0\Oware.pdb
+j:\‎\ict.ru.ac.za\DFS\UGHomes\g19p1052\Desktop\p2sdp‎\Oware\Oware\obj\Debug\net5.0\Oware.genruntimeconfig.cache
